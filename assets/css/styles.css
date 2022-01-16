@@ -3,3 +3,22 @@
   justify-content: space-around;
   align-items: center;
 }
+
+.section1 {
+  background-image: url("/assets/img/prestamos4.jpg");
+  height: 450px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position-y: 50%;
+}
+
+.prestamo {
+  color: white;
+  font-size: 40px;
+}
+
+p {
+  color: white;
+  font-size: 20px;
+  padding-left: 50px;
+}
