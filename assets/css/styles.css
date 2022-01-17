@@ -47,3 +47,10 @@ p {
   background-repeat: no-repeat;
   background-position-y: 50%;
 }
+
+.section4 {
+  margin-top: 10px;
+  background: #5c5b5b;
+  display: flex;
+  justify-content: space-evenly;
+}
