@@ -30,3 +30,20 @@ p {
 .section2 {
   margin-top: 10px;
 }
+
+.section3 {
+  margin-top: 10px;
+}
+
+.btn-prestamo {
+  display: flex;
+  justify-content: space-around;
+}
+
+.prestamos5 {
+  background-image: url("/assets/img/prestamos5.jpg");
+  height: 450px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position-y: 50%;
+}
